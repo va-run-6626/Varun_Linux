@@ -1,0 +1,14 @@
+red 
+orange
+teal
+yellow
+blue
+black
+yellow
+cyan
+aqua
+teal
+teal
+pink
+blue
+orange
